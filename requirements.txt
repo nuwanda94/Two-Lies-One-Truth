@@ -1,2 +1,2 @@
 torch
-clip
+clip-by-openai
